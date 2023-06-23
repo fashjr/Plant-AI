@@ -12,25 +12,14 @@ The goal of the project is to create a classifier capable of determining a plant
 List of Plant species:
 
 Black-grass
-
 Charlock
-
 Cleavers
-
 Common Chickweed
-
 Common Wheat
-
 Fat Hen
-
 Loose Silky-bent
-
 Maize
-
 Scentless Mayweed
-
 Shepherds Purse
-
 Small-flowered Cranesbill
-
 Sugar beet
